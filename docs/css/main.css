@@ -1,13 +1,3 @@
-h1{
-  color: red;
-  text-align: center;
-  font-size: 27;
-}
-p{
-  font-family: cursive;
-  font-size: 20;
-  color: black;
-}
-body{
-  background: yellow;
+body {
+  color: green;
 }
